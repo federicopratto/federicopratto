@@ -1,16 +1,22 @@
-### Hi there 👋
 
-<!--
-**federicopratto/federicopratto** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+<img width="350vw" src="https://github.com/federicopratto/github-stats/blob/master/generated/languages.svg" align="left" style="margin: 0 1em 1em 0">
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Hi! These are some of the languages I've been using.
+
+### 👨🏻‍💻 About Me
+
+💡 I love exploring new tech stack, building cool stuffs and develop quick scripts.\
+🎓 I'm currently studying Informatics Engineering.\
+🐺 In my spare time I read the books of the Game of Thrones saga.
+
+<div align="center">
+<br />
+<br />
+
+### 🤝🏻 Connect with Me
+
+<a href="mailto:fede.pratto@gmail.com"><img src="https://img.shields.io/badge/-fede.pratto@gmail.com-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
+<a href="https://linkedin.com/in/federico-pratto"><img src="https://img.shields.io/badge/-Federico%20Pratto-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+</div>
+
